@@ -34,7 +34,7 @@ El reto debe cumplirse en **12 minutos**:
 
 ## 🔽 1. Clonar el repositorio
 (Se hace solo la primera vez)
-💻 git clone https://github.com/AndresSandoval123/Rompe_Hielo_C110.git  
+💻 git clone https://github.com/AndresSandoval123/Rompe_Hielo_C10.git
 
 ## 📂 2. Entrar a la carpeta del repositorio
 💻 cd Rompe_Hielo  
